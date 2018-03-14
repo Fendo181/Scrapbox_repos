@@ -1,7 +1,7 @@
 #!/usr/bin/env ruby
 require 'uri'
 
-project = 'fendo181'
+project = 'fendo181-nipo'
 year  = Time.now.strftime('%Y')
 month = Time.now.strftime('%m')
 day   = Time.now.strftime('%d')
